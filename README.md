@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashish sharma
-- 👀 I’m interested in projects for c++
-- 🌱 I’m currently learning data structures and algorithm
-- 💞️ I’m looking to collaborate on open source projects in c++
+- 👀 I’m interested in projects based on blockchain.
+- 🌱 I’m currently learning blockchain development and data structures and algorithm
+- 💞️ I’m looking to collaborate on open source projects on blockchain
 - 📫 How to reach me ashish511412@gmail.com
 
 <!---
